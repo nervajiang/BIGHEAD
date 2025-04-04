@@ -1,0 +1,24 @@
+{
+  "name": "street-fighter-game",
+  "version": "1.0.0",
+  "description": "雙人街機風格橫向捲軸格鬥遊戲",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [
+    "game",
+    "phaser",
+    "html5",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
